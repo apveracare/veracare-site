@@ -152,6 +152,23 @@ export default function Navbar() {
                 {d.nav[l.key]}
               </Link>
             ))}
+            <div className="mt-1 flex items-center justify-center gap-1 border-t border-[rgba(1,103,123,0.1)] pt-3 pb-1 text-[14px]">
+              {LOCALES.map((l, i) => (
+                <span key={l} className="flex items-center gap-1">
+                  <button
+                    onClick={() => setLocale(l)}
+                    className={`rounded-full px-3 py-1.5 font-semibold transition-colors ${
+                      locale === l
+                        ? 'bg-[rgba(1,103,123,0.09)] text-[var(--deep-blue)]'
+                        : 'text-[rgba(7,43,52,0.55)] hover:text-[var(--deep-blue)]'
+                    }`}
+                  >
+                    {LOCALE_NAMES[l]}
+                  </button>
+                  {i < LOCALES.length - 1 && <span className="text-[rgba(7,43,52,0.3)]">/</span>}
+                </span>
+              ))}
+            </div>
             <a
               href={waLink(d.whatsapp_message)}
               target="_blank"
