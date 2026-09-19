@@ -37,7 +37,13 @@ export default function AboutSection() {
         {/* intro — the tagline already appears in the page banner */}
         <div className="mx-auto max-w-3xl">
           <FadeUp>
-            <Rich segs={intro} className={`text-left ${P}`} />
+            <h2 className="font-serif-display text-[26px] leading-snug font-semibold text-[var(--deep-teal)] sm:text-[30px]">
+              {d.about.story_heading}
+            </h2>
+            <span className="mt-4 block h-px w-16 bg-[var(--gold)]" />
+          </FadeUp>
+          <FadeUp delay={0.06}>
+            <Rich segs={intro} className={`mt-8 text-left ${P}`} />
           </FadeUp>
         </div>
 

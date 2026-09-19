@@ -41,6 +41,7 @@ export interface Dict {
   about: {
     heading: string;
     tagline: string;
+    story_heading: string;
     story: RichSegment[][];
     mid_heading: string;
     body: RichSegment[][];
