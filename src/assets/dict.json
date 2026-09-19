@@ -1,0 +1,1643 @@
+{
+"en": {
+"meta": {
+"title": "Agensi Pekerjaan Veracare | Licensed Domestic Helper Agency, Penang",
+"description": "Licensed domestic helper placement agency in Georgetown, Penang. JTKSM 1837 (Category B). New applications, renewals, transfers and full immigration support."
+},
+"nav": {
+"home": "Home",
+"services": "Services",
+"process": "Our Process",
+"faq": "FAQ",
+"about": "About",
+"contact": "Contact",
+"whatsapp": "WhatsApp Us"
+},
+"hero": {
+"eyebrow": "Licensed under JTKSM 1837 (Category B)",
+"headline": "Sincere Care, Service with Heart",
+"sub": "We help Penang families find, hire and manage domestic helpers — handling the paperwork, interviews and immigration process from start to finish.",
+"cta_primary": "Chat on WhatsApp",
+"cta_secondary": "View our services"
+},
+"trust": {
+"heading": "A registered agency you can verify",
+"jtksm_label": "License",
+"jtksm_value": "JTKSM 1837 (Category B)",
+"ssm_label": "SSM Registration",
+"ssm_value": "1651286-X",
+"address_label": "Office Address"
+},
+"services_preview": {
+"heading": "What we handle",
+"sub": "From a family's first application to a helper's eventual renewal or transfer, we manage every step.",
+"cta": "See all services"
+},
+"services": {
+"heading": "Our Services",
+"sub": "Full support for domestic helper placement and the immigration process around it.",
+"items": [
+{
+"title": "New Domestic Helper Application",
+"desc": "End-to-end handling of a first-time application, from candidate matching to approval."
+},
+{
+"title": "Re-entry of Old Domestic Helper Application",
+"desc": "Arranging re-entry approval for a helper returning to continue service with your family."
+},
+{
+"title": "Immigration Related Service",
+"desc": "Handling the immigration paperwork and procedures that come with hiring a domestic helper."
+},
+{
+"title": "Domestic Helper Interview",
+"desc": "Coordinating and conducting interviews so you hire someone suited to your household."
+},
+{
+"title": "Airport Immigration Clearance",
+"desc": "Assistance with immigration clearance when a helper arrives at or departs from the airport."
+},
+{
+"title": "FOMEMA Medical Check-up Arrangement",
+"desc": "Scheduling and arranging the mandatory FOMEMA medical examination."
+},
+{
+"title": "Work Permit Renewal",
+"desc": "Managing renewal of a helper's work permit before it expires, to keep employment compliant."
+},
+{
+"title": "Counselling Services",
+"desc": "Guidance and counselling for employers and helpers throughout the placement."
+},
+{
+"title": "Purchase of Air Ticket & Repatriation Arrangement",
+"desc": "Booking flights and arranging repatriation when a helper's service ends."
+},
+{
+"title": "Transfer of Domestic Helper Application",
+"desc": "Handling the transfer process when a helper moves from one employer to another."
+},
+{
+"title": "Temporary Local Cleaner",
+"desc": "Ad-hoc cleaning help arranged for your household, provided by a trusted third-party company."
+},
+{
+"title": "Part-time Cleaning",
+"desc": "Regular scheduled cleaning visits, provided by a trusted third-party company."
+}
+]
+},
+"process_preview": {
+"heading": "How it works",
+"sub": "Four stages from your first call to a helper settled in your home.",
+"cta": "See the full process",
+"steps": [
+{
+"title": "Consultation",
+"desc": "We learn your household's needs and shape the candidate profile."
+},
+{
+"title": "Selection & approval",
+"desc": "You interview shortlisted candidates; we submit and follow through your application."
+},
+{
+"title": "Processing & arrival",
+"desc": "Documents, medical and visa are completed, then we meet her at the airport."
+},
+{
+"title": "Placement & support",
+"desc": "She joins your family, with counselling and renewals handled by us."
+}
+]
+},
+"process": {
+"heading": "Our Process",
+"sub": "Our master operations flow — from your first inquiry to case closure, every stage is tracked and nothing is left to chance.",
+"steps": [
+{
+"title": "Client Inquiry",
+"desc": "Every engagement starts with a structured inquiry, recorded in our CRM.",
+"points": [
+"Inquiry script",
+"Client inquiry form",
+"CRM: new inquiry"
+]
+},
+{
+"title": "Needs Assessment",
+"desc": "We assess your household's needs before any quote is given.",
+"points": [
+"Employer needs assessment form",
+"No assessment, no quote"
+]
+},
+{
+"title": "Quotation",
+"desc": "A formal quotation with a clear fee breakdown, validity and exclusions.",
+"points": [
+"Official quotation",
+"Fee breakdown",
+"Validity + exclusions"
+]
+},
+{
+"title": "Service Explanation",
+"desc": "We walk you through the timeline, refund and replacement terms.",
+"points": [
+"Acknowledgement",
+"Timeline, refund & replacement terms"
+]
+},
+{
+"title": "Agreement & Payment",
+"desc": "Agreement signed, payment receipted, and your client file is opened.",
+"points": [
+"Client agreement",
+"Receipt / payment",
+"Client file opened"
+]
+},
+{
+"title": "Worker Verification",
+"desc": "Each candidate's registration, documents, skills and background are verified.",
+"points": [
+"Registration + documents",
+"Interview + skills",
+"Candidate verification"
+]
+},
+{
+"title": "Matching & Selection",
+"desc": "We match candidates against your needs and confirm your selection.",
+"points": [
+"Matching checklist",
+"Candidate profile",
+"Selection confirmation"
+]
+},
+{
+"title": "Ready for Submission",
+"desc": "A final checklist ensures documents are complete before submission.",
+"points": [
+"Final checklist",
+"Documents complete",
+"Tracker updated"
+]
+},
+{
+"title": "Processing Tracking",
+"desc": "We track permits, visa, medical and insurance with weekly updates.",
+"points": [
+"Permit / visa",
+"Medical / insurance",
+"Weekly updates"
+]
+},
+{
+"title": "Handover / Placement",
+"desc": "Your helper is briefed, handover forms are signed, and placement begins.",
+"points": [
+"Worker briefing",
+"Handover form",
+"Placement date"
+]
+},
+{
+"title": "Follow-Up",
+"desc": "Structured follow-ups on day 3, 7 and 14, and through months 1-3.",
+"points": [
+"Day 3 / 7 / 14",
+"Month 1 / 2 / 3",
+"Issue monitoring"
+]
+},
+{
+"title": "Issue Handling",
+"desc": "Complaints and incidents are handled with clear escalation to our director.",
+"points": [
+"Complaint / incident",
+"Replacement / refund",
+"Director escalation"
+]
+},
+{
+"title": "Case Closure",
+"desc": "A closure checklist completes the case before it is archived.",
+"points": [
+"Closure checklist",
+"CRM closed",
+"Archive file"
+]
+}
+],
+"note": "Timelines vary by source country and by current immigration processing. We will give you a realistic estimate at the consultation stage.",
+"cta": "Start with a consultation"
+},
+"faq": {
+"heading": "Frequently Asked Questions",
+"sub": "Common questions from employers about hiring a domestic helper in Malaysia.",
+"items": [
+{
+"q": "How long does the whole process take?",
+"a": "It depends on the source country, the candidate's readiness and current immigration processing times. We will give you a realistic estimate once we know which country you are recruiting from and have reviewed your application."
+},
+{
+"q": "Which countries do you recruit from?",
+"a": "We work with partners in several source countries approved for domestic helper recruitment into Malaysia. Availability changes with government policy, so please contact us for the countries we are currently placing from."
+},
+{
+"q": "What costs are involved?",
+"a": "Costs typically include the agency fee, government levy and processing charges, medical screening, insurance, air ticket and visa fees. We provide a written breakdown before you commit, so there are no surprises."
+},
+{
+"q": "What are my responsibilities as an employer?",
+"a": "You are responsible for the helper's wages, accommodation, food, and the levy and permit costs tied to her employment, as well as treating her in line with Malaysian labour requirements. We explain each obligation clearly during consultation."
+},
+{
+"q": "What is FOMEMA and who arranges it?",
+"a": "FOMEMA is the mandatory medical screening that foreign workers in Malaysia must pass. We arrange the appointment and handle the process with you; the result determines whether the work permit can be endorsed."
+},
+{
+"q": "What happens if the helper is not suitable?",
+"a": "Please speak to us early rather than waiting. We offer counselling to both sides first, since many issues are resolvable. If a change is genuinely needed, we will explain your options and what each one involves."
+},
+{
+"q": "Can I transfer a helper who is already in Malaysia?",
+"a": "Yes, in many cases a transfer from another employer is possible, subject to approval and the helper's permit status. We handle the transfer application on your behalf."
+},
+{
+"q": "Do I need to provide separate accommodation?",
+"a": "You must provide suitable living arrangements including a proper place to sleep, adequate rest and access to food. We will go through what is expected for your household setup."
+},
+{
+"q": "How does work permit renewal work?",
+"a": "A helper's work permit must be renewed before it expires, which involves a repeat medical screening and the renewal submission. We track this and contact you ahead of the deadline so nothing lapses."
+},
+{
+"q": "What happens when the contract ends?",
+"a": "Depending on what you both want, we can arrange renewal, re-entry after home leave, or repatriation including the air ticket and exit formalities. We will walk you through the choice as the end of contract approaches."
+}
+],
+"cta_text": "Still have a question?",
+"cta": "Ask us on WhatsApp"
+},
+"about": {
+"heading": "About Veracare",
+"tagline": "Born from Love. Built on Care.",
+"story": [
+[
+{
+"t": "Agensi Pekerjaan Veracare is a licensed domestic helper agency based in Pulau Tikus, Georgetown, Penang. We help families navigate the journey of hiring and employing a domestic helper with greater confidence, clarity and peace of mind."
+}
+],
+[
+{
+"t": "But "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " was created to be more than an employment agency."
+}
+],
+[
+{
+"t": "Our story began with a personal belief that "
+},
+{
+"t": "the right person in a home can make a meaningful difference to an entire family",
+"b": true
+},
+{
+"t": "."
+}
+],
+[
+{
+"t": "Having experienced firsthand the difference a caring and trusted helper can make, our Director was inspired to create "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " — helping families find the same sense of "
+},
+{
+"t": "trust, support and genuine care at home",
+"b": true
+},
+{
+"t": ", while creating meaningful opportunities for women to build better futures for themselves and their families."
+}
+],
+[
+{
+"t": "Veracare"
+},
+{
+"t": " also carries forward a family belief passed down through generations: "
+},
+{
+"t": "as we grow, we should create opportunities for others to grow with us.",
+"b": true
+}
+],
+[
+{
+"t": "We believe in empowerment through proper selection, preparation, guidance and opportunity — helping women develop valuable skills, support their families with dignity and become trusted members of the households they serve."
+}
+]
+],
+"mid_heading": "Care for Families. Opportunity for Helpers.",
+"body": [
+[
+{
+"t": "For families, our goal is to bring the "
+},
+{
+"t": "right person into the right home",
+"b": true
+},
+{
+"t": " — with care, professionalism and responsibility."
+}
+],
+[
+{
+"t": "Veracare"
+},
+{
+"t": " supports the employment journey from initial application and matching through documentation, medical arrangements, immigration processes and placement, as well as ongoing matters such as renewals and transfers. Our team coordinates the required processes so families do not have to navigate everything alone."
+}
+],
+[
+{
+"t": "For helpers, "
+},
+{
+"t": "our responsibility does not end with placement",
+"b": true
+},
+{
+"t": "."
+}
+],
+[
+{
+"t": "We provide ongoing follow-ups, guidance and practical learning, while encouraging open communication between helpers and employers. By sharing experiences and addressing challenges early, we aim to strengthen understanding, improve family-care knowledge and reduce unnecessary misunderstandings."
+}
+],
+[
+{
+"t": "We also believe that "
+},
+{
+"t": "proper rest and wellbeing are essential to sustainable, quality care",
+"b": true
+},
+{
+"t": ". Where appropriate, "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " can assist families in exploring suitable household support arrangements during an agreed rest period, subject to availability and applicable requirements."
+}
+],
+[
+{
+"t": "Our aim is simple: "
+},
+{
+"t": "better-supported helpers, better-supported families and better care.",
+"b": true
+}
+],
+[
+{
+"t": "Because "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " is not simply about placing a domestic helper."
+}
+]
+],
+"closing": [
+{
+"t": "It is about bringing care into a home, creating opportunity for another family, and building relationships that can positively change lives on both sides.",
+"b": true
+}
+],
+"signoff": "Born from Love. Built on Care.",
+"signoff_line": "Connecting families. Empowering women. Caring with purpose.",
+"license_heading": "Registration & Licensing",
+"cta": "Get in touch",
+"license_view": "Our JTKSM licence",
+"license_alt": "JTKSM 1837 (Category B) private employment agency licence issued to Agensi Pekerjaan Veracare Sdn. Bhd.",
+"partners_heading": "Who we work with",
+"partners_sub": "We coordinate with these government departments and embassies throughout every placement.",
+"partners": [
+{
+"name": "Immigration Department of Malaysia"
+},
+{
+"name": "Department of Labour Peninsular Malaysia"
+},
+{
+"name": "Embassy of the Republic of the Philippines"
+},
+{
+"name": "Ministry of Human Resources Malaysia"
+}
+]
+},
+"contact": {
+"heading": "Contact Us",
+"sub": "Reach out for a new application, a renewal, or any question about hiring a domestic helper.",
+"address_label": "Address",
+"phone_label": "Phone / WhatsApp",
+"email_label": "Email",
+"hours_label": "Enquiries",
+"hours_value": "Message us on WhatsApp anytime — we'll reply as soon as we can.",
+"map_heading": "Find our office"
+},
+"enquiry": {
+"heading": "Send us an enquiry",
+"sub": "Fill this in and it opens WhatsApp with your message ready to send.",
+"name": "Your name",
+"name_ph": "e.g. Tan Wei Ming",
+"topic": "What do you need help with?",
+"topic_ph": "Select a service",
+"message": "Tell us a little more",
+"message_ph": "e.g. Family of four in Pulau Tikus, looking for a live-in helper with elderly care experience.",
+"send": "Open in WhatsApp",
+"preview": "Message preview"
+},
+"footer": {
+"tagline": "Licensed domestic helper placement, Georgetown, Penang.",
+"rights": "All rights reserved."
+},
+"whatsapp_message": "Hi, I'm interested in your domestic helper services.",
+"ui": {
+"filter_services": "Filter services",
+"search_faq": "Search questions",
+"no_results": "Nothing matched that. Try another word.",
+"showing": "Showing {n} of {total}",
+"expand_all": "Expand all",
+"collapse_all": "Collapse all",
+"back_to_top": "Back to top",
+"clear": "Clear"
+},
+"marquee": {
+"heading": "We deal with the authorities for you",
+"sub": "Licences, permits, medicals and renewals — coordinated directly, so you never face the paperwork alone."
+},
+"support": {
+"heading": "Care at every step",
+"sub": "From a first interview to a permit renewal, every family and every helper gets the same careful attention.",
+"items": [
+{
+"title": "For new employers",
+"desc": "First-time hiring explained clearly — candidate profiles, interviews, applications and approvals handled end to end."
+},
+{
+"title": "For existing employers",
+"desc": "Renewals, transfers, re-entry and repatriation arranged before deadlines, with reminders from our team."
+},
+{
+"title": "For helpers",
+"desc": "Fair placement, counselling, medical arrangements and a team that stays reachable throughout the contract."
+}
+]
+},
+"parallax": {
+"quote": "A good helper becomes part of the family. Finding the right one should feel just as personal.",
+"by": "The Veracare promise"
+},
+"testimonials": {
+"heading": "Words of appreciation",
+"sub": "What Penang families tell us once the placement has settled in.",
+"items": [
+{
+"name": "Mdm. Lim",
+"role": "Pulau Tikus",
+"quote": "They handled everything from the application to the airport pickup. We just interviewed and welcomed her home."
+},
+{
+"name": "Mr. & Mrs. Tan",
+"role": "Georgetown",
+"quote": "Renewal reminders, FOMEMA booking, levy — all sorted before we even thought to ask."
+},
+{
+"name": "Mrs. Nair",
+"role": "Tanjung Tokong",
+"quote": "When our helper struggled in the first month, their counsellor sat down with both sides. It made all the difference."
+},
+{
+"name": "Mr. Cheah",
+"role": "Bayan Lepas",
+"quote": "Transparent fees, realistic timelines, no surprises. Exactly what you want from an agency."
+}
+]
+}
+},
+"ms": {
+"meta": {
+"title": "Agensi Pekerjaan Veracare | Agensi Pembantu Rumah Berlesen, Pulau Pinang",
+"description": "Agensi penempatan pembantu rumah berlesen di Georgetown, Pulau Pinang. JTKSM 1837 (Kategori B). Permohonan baharu, pembaharuan, pertukaran dan sokongan imigresen penuh."
+},
+"nav": {
+"home": "Utama",
+"services": "Perkhidmatan",
+"process": "Proses Kami",
+"faq": "Soalan Lazim",
+"about": "Tentang Kami",
+"contact": "Hubungi Kami",
+"whatsapp": "WhatsApp Kami"
+},
+"hero": {
+"eyebrow": "Diluluskan di bawah JTKSM 1837 (Kategori B)",
+"headline": "Penjagaan Yang Tulus, Perkhidmatan dari Hati",
+"sub": "Kami membantu keluarga di Pulau Pinang mencari, mengambil dan menguruskan pembantu rumah — menguruskan dokumentasi, temu duga dan proses imigresen dari awal hingga akhir.",
+"cta_primary": "Chat di WhatsApp",
+"cta_secondary": "Lihat perkhidmatan kami"
+},
+"trust": {
+"heading": "Agensi berdaftar yang boleh disahkan",
+"jtksm_label": "Lesen",
+"jtksm_value": "JTKSM 1837 (Category B)",
+"ssm_label": "Pendaftaran SSM",
+"ssm_value": "1651286-X",
+"address_label": "Alamat Pejabat"
+},
+"services_preview": {
+"heading": "Apa yang kami uruskan",
+"sub": "Dari permohonan pertama sesebuah keluarga sehingga pembaharuan atau pertukaran pembantu rumah, kami menguruskan setiap langkah.",
+"cta": "Lihat semua perkhidmatan"
+},
+"services": {
+"heading": "Perkhidmatan Kami",
+"sub": "Sokongan penuh untuk penempatan pembantu rumah dan proses imigresen yang berkaitan.",
+"items": [
+{
+"title": "Permohonan Pembantu Rumah Baharu",
+"desc": "Pengurusan menyeluruh permohonan kali pertama, daripada pemadanan calon sehingga kelulusan."
+},
+{
+"title": "Permohonan Kemasukan Semula Pembantu Rumah Lama",
+"desc": "Menguruskan kelulusan kemasukan semula untuk pembantu rumah yang kembali menyambung perkhidmatan."
+},
+{
+"title": "Perkhidmatan Berkaitan Imigresen",
+"desc": "Menguruskan dokumentasi dan prosedur imigresen yang berkaitan dengan pengambilan pembantu rumah."
+},
+{
+"title": "Temu Duga Pembantu Rumah",
+"desc": "Menyelaras dan menjalankan temu duga supaya anda mengambil pembantu rumah yang sesuai."
+},
+{
+"title": "Kelulusan Imigresen Lapangan Terbang",
+"desc": "Bantuan kelulusan imigresen semasa ketibaan atau pemberangkatan pembantu rumah di lapangan terbang."
+},
+{
+"title": "Aturan Pemeriksaan Kesihatan FOMEMA",
+"desc": "Menjadualkan dan menguruskan pemeriksaan kesihatan FOMEMA yang diwajibkan."
+},
+{
+"title": "Pembaharuan Permit Kerja",
+"desc": "Menguruskan pembaharuan permit kerja pembantu rumah sebelum tamat tempoh."
+},
+{
+"title": "Perkhidmatan Kaunseling",
+"desc": "Bimbingan dan kaunseling untuk majikan dan pembantu rumah sepanjang penempatan."
+},
+{
+"title": "Pembelian Tiket Kapal Terbang & Aturan Pemulangan",
+"desc": "Menempah penerbangan dan menguruskan pemulangan apabila tempoh perkhidmatan tamat."
+},
+{
+"title": "Permohonan Pertukaran Pembantu Rumah",
+"desc": "Menguruskan proses pertukaran apabila pembantu rumah berpindah majikan."
+},
+{
+"title": "Pembersih Tempatan Sementara",
+"desc": "Bantuan pembersihan ad-hoc untuk isi rumah anda, disediakan oleh syarikat pihak ketiga yang dipercayai."
+},
+{
+"title": "Pembersihan Separuh Masa",
+"desc": "Lawatan pembersihan berkala mengikut jadual, disediakan oleh syarikat pihak ketiga yang dipercayai."
+}
+]
+},
+"process_preview": {
+"heading": "Bagaimana ia berjalan",
+"sub": "Empat peringkat dari panggilan pertama anda sehingga pembantu rumah menetap di rumah anda.",
+"cta": "Lihat proses penuh",
+"steps": [
+{
+"title": "Perundingan",
+"desc": "Kami memahami keperluan isi rumah anda dan membentuk profil calon."
+},
+{
+"title": "Pemilihan & kelulusan",
+"desc": "Anda menemu duga calon tersenarai pendek; kami menghantar dan memantau permohonan anda."
+},
+{
+"title": "Pemprosesan & ketibaan",
+"desc": "Dokumen, pemeriksaan kesihatan dan visa disiapkan, kemudian kami menyambutnya di lapangan terbang."
+},
+{
+"title": "Penempatan & sokongan",
+"desc": "Beliau menyertai keluarga anda, dengan kaunseling dan pembaharuan diuruskan oleh kami."
+}
+]
+},
+"process": {
+"heading": "Proses Kami",
+"sub": "Aliran operasi utama kami — dari pertanyaan pertama anda sehingga penutupan kes, setiap peringkat dijejak dengan teliti.",
+"steps": [
+{
+"title": "Pertanyaan Klien",
+"desc": "Setiap permulaan bermula dengan pertanyaan tersusun yang direkodkan dalam CRM kami.",
+"points": [
+"Skrip pertanyaan",
+"Borang pertanyaan klien",
+"CRM: pertanyaan baharu"
+]
+},
+{
+"title": "Penilaian Keperluan",
+"desc": "Kami menilai keperluan isi rumah anda sebelum sebut harga diberikan.",
+"points": [
+"Borang penilaian keperluan majikan",
+"Tiada penilaian, tiada sebut harga"
+]
+},
+{
+"title": "Sebut Harga",
+"desc": "Sebut harga rasmi dengan pecahan yuran yang jelas, kesahihan dan pengecualian.",
+"points": [
+"Sebut harga rasmi",
+"Pecahan yuran",
+"Kesahihan + pengecualian"
+]
+},
+{
+"title": "Penerangan Perkhidmatan",
+"desc": "Kami menerangkan tempoh masa, terma bayaran balik dan penggantian.",
+"points": [
+"Pengakuan",
+"Terma tempoh masa, bayaran balik & penggantian"
+]
+},
+{
+"title": "Perjanjian & Pembayaran",
+"desc": "Perjanjian ditandatangani, pembayaran diresitkan, dan fail klien anda dibuka.",
+"points": [
+"Perjanjian klien",
+"Resit / pembayaran",
+"Fail klien dibuka"
+]
+},
+{
+"title": "Pengesahan Pekerja",
+"desc": "Pendaftaran, dokumen, kemahiran dan latar belakang setiap calon disahkan.",
+"points": [
+"Pendaftaran + dokumen",
+"Temu duga + kemahiran",
+"Pengesahan calon"
+]
+},
+{
+"title": "Pemadanan & Pemilihan",
+"desc": "Kami memadankan calon dengan keperluan anda dan mengesahkan pemilihan.",
+"points": [
+"Senarai semak pemadanan",
+"Profil calon",
+"Pengesahan pemilihan"
+]
+},
+{
+"title": "Sedia untuk Penghantaran",
+"desc": "Senarai semak akhir memastikan dokumen lengkap sebelum penghantaran.",
+"points": [
+"Senarai semak akhir",
+"Dokumen lengkap",
+"Penjejak dikemas kini"
+]
+},
+{
+"title": "Penjejakan Pemprosesan",
+"desc": "Kami menjejak permit, visa, perubatan dan insurans dengan kemas kini mingguan.",
+"points": [
+"Permit / visa",
+"Perubatan / insurans",
+"Kemas kini mingguan"
+]
+},
+{
+"title": "Serahan / Penempatan",
+"desc": "Pembantu anda diberi taklimat, borang serahan ditandatangani, dan penempatan bermula.",
+"points": [
+"Taklimat pekerja",
+"Borang serahan",
+"Tarikh penempatan"
+]
+},
+{
+"title": "Susulan",
+"desc": "Susulan berstruktur pada hari ke-3, 7 dan 14, dan sepanjang bulan ke-1 hingga ke-3.",
+"points": [
+"Hari 3 / 7 / 14",
+"Bulan 1 / 2 / 3",
+"Pemantauan isu"
+]
+},
+{
+"title": "Pengendalian Isu",
+"desc": "Aduan dan kejadian dikendalikan dengan eskalasi yang jelas kepada pengarah kami.",
+"points": [
+"Aduan / kejadian",
+"Penggantian / bayaran balik",
+"Eskalasi pengarah"
+]
+},
+{
+"title": "Penutupan Kes",
+"desc": "Senarai semak penutupan melengkapkan kes sebelum diarkibkan.",
+"points": [
+"Senarai semak penutupan",
+"CRM ditutup",
+"Fail arkib"
+]
+}
+],
+"note": "Tempoh masa berbeza mengikut negara asal dan pemprosesan imigresen semasa. Kami akan memberikan anggaran yang realistik pada peringkat perundingan.",
+"cta": "Mulakan dengan perundingan"
+},
+"faq": {
+"heading": "Soalan Lazim",
+"sub": "Soalan biasa daripada majikan mengenai pengambilan pembantu rumah di Malaysia.",
+"items": [
+{
+"q": "Berapa lama keseluruhan proses ini mengambil masa?",
+"a": "Ia bergantung kepada negara asal, kesediaan calon dan tempoh pemprosesan imigresen semasa. Kami akan memberikan anggaran yang realistik setelah mengetahui negara pengambilan dan menyemak permohonan anda."
+},
+{
+"q": "Dari negara manakah anda mengambil pembantu rumah?",
+"a": "Kami bekerjasama dengan rakan kongsi di beberapa negara asal yang diluluskan untuk pengambilan pembantu rumah ke Malaysia. Ketersediaan berubah mengikut dasar kerajaan, jadi sila hubungi kami untuk mengetahui negara yang sedang kami uruskan."
+},
+{
+"q": "Apakah kos yang terlibat?",
+"a": "Kos biasanya merangkumi yuran agensi, levi kerajaan dan caj pemprosesan, pemeriksaan kesihatan, insurans, tiket kapal terbang dan yuran visa. Kami menyediakan pecahan bertulis sebelum anda membuat komitmen, supaya tiada kejutan."
+},
+{
+"q": "Apakah tanggungjawab saya sebagai majikan?",
+"a": "Anda bertanggungjawab terhadap gaji, tempat tinggal dan makanan pembantu rumah, serta kos levi dan permit yang berkaitan dengan pekerjaannya, di samping melayannya selaras dengan keperluan perburuhan Malaysia. Kami menerangkan setiap kewajipan dengan jelas semasa perundingan."
+},
+{
+"q": "Apakah itu FOMEMA dan siapa yang menguruskannya?",
+"a": "FOMEMA ialah pemeriksaan kesihatan wajib yang perlu dilepasi oleh pekerja asing di Malaysia. Kami mengatur temu janji dan menguruskan prosesnya bersama anda; keputusannya menentukan sama ada permit kerja boleh disahkan."
+},
+{
+"q": "Bagaimana jika pembantu rumah tidak sesuai?",
+"a": "Sila berbincang dengan kami lebih awal dan jangan menunggu. Kami menawarkan kaunseling kepada kedua-dua pihak terlebih dahulu, kerana banyak isu boleh diselesaikan. Jika pertukaran benar-benar diperlukan, kami akan menerangkan pilihan anda dan apa yang terlibat."
+},
+{
+"q": "Bolehkah saya mengambil alih pembantu rumah yang sudah berada di Malaysia?",
+"a": "Ya, dalam banyak kes pertukaran daripada majikan lain boleh dilakukan, tertakluk kepada kelulusan dan status permit pembantu rumah tersebut. Kami menguruskan permohonan pertukaran bagi pihak anda."
+},
+{
+"q": "Perlukah saya menyediakan tempat tinggal yang berasingan?",
+"a": "Anda perlu menyediakan kemudahan tempat tinggal yang sesuai termasuk tempat tidur yang wajar, rehat yang mencukupi dan akses kepada makanan. Kami akan menerangkan apa yang dijangkakan untuk keadaan rumah anda."
+},
+{
+"q": "Bagaimana pembaharuan permit kerja dilakukan?",
+"a": "Permit kerja pembantu rumah mesti diperbaharui sebelum tamat tempoh, yang melibatkan pemeriksaan kesihatan semula dan penghantaran permohonan pembaharuan. Kami memantau tarikh ini dan menghubungi anda lebih awal supaya tiada yang terlepas."
+},
+{
+"q": "Apa yang berlaku apabila kontrak tamat?",
+"a": "Bergantung kepada kehendak kedua-dua pihak, kami boleh mengaturkan pembaharuan, kemasukan semula selepas cuti pulang, atau pemulangan termasuk tiket kapal terbang dan urusan keluar. Kami akan membimbing anda membuat pilihan apabila kontrak menghampiri tamat."
+}
+],
+"cta_text": "Masih ada soalan?",
+"cta": "Tanya kami di WhatsApp"
+},
+"about": {
+"heading": "Tentang Veracare",
+"tagline": "Lahir dari Kasih. Dibina dengan Penjagaan.",
+"story": [
+[
+{
+"t": "Agensi Pekerjaan Veracare ialah agensi pembantu rumah berlesen yang berpusat di Pulau Tikus, Georgetown, Pulau Pinang. Kami membantu keluarga menempuh perjalanan mengupah dan bekerja dengan pembantu rumah dengan lebih yakin, jelas dan tenang."
+}
+],
+[
+{
+"t": "Tetapi "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " diasaskan untuk menjadi lebih daripada sekadar agensi pekerjaan."
+}
+],
+[
+{
+"t": "Kisah kami bermula dengan kepercayaan peribadi bahawa "
+},
+{
+"t": "orang yang tepat di sebuah rumah dapat memberikan perbezaan yang bermakna kepada seluruh keluarga",
+"b": true
+},
+{
+"t": "."
+}
+],
+[
+{
+"t": "Selepas mengalami sendiri perbezaan yang boleh dibuat oleh pembantu yang penyayang dan dipercayai, Pengarah kami terilham untuk menubuhkan "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " — membantu keluarga menemui semula rasa "
+},
+{
+"t": "kepercayaan, sokongan dan penjagaan tulus di rumah",
+"b": true
+},
+{
+"t": ", sambil mencipta peluang bermakna untuk wanita membina masa depan yang lebih baik untuk diri mereka dan keluarga mereka."
+}
+],
+[
+{
+"t": "Veracare"
+},
+{
+"t": " juga meneruskan kepercayaan keluarga yang diwarisi turun-temurun: "
+},
+{
+"t": "apabila kita berkembang, kita harus mencipta peluang untuk orang lain berkembang bersama kita.",
+"b": true
+}
+],
+[
+{
+"t": "Kami percaya kepada pemerkasaan melalui pemilihan, persediaan, bimbingan dan peluang yang wajar — membantu wanita mengasah kemahiran berharga, menyara keluarga mereka dengan maruah dan menjadi ahli rumah yang dipercayai dalam isi rumah yang mereka khidmati."
+}
+]
+],
+"mid_heading": "Penjagaan untuk Keluarga. Peluang untuk Pembantu.",
+"body": [
+[
+{
+"t": "Bagi keluarga, matlamat kami adalah untuk membawa "
+},
+{
+"t": "orang yang tepat ke rumah yang tepat",
+"b": true
+},
+{
+"t": " — dengan penjagaan, profesionalisme dan tanggungjawab."
+}
+],
+[
+{
+"t": "Veracare"
+},
+{
+"t": " menyokong perjalanan pekerjaan dari permohonan dan pemadanan awal sehingga dokumentasi, pengaturan perubatan, proses imigresen dan penempatan, serta perkara berterusan seperti pembaharuan dan pemindahan. Pasukan kami mengoordinasikan proses yang diperlukan supaya keluarga tidak perlu menempuh semuanya sendirian."
+}
+],
+[
+{
+"t": "Bagi pembantu, "
+},
+{
+"t": "tanggungjawab kami tidak berakhir dengan penempatan",
+"b": true
+},
+{
+"t": "."
+}
+],
+[
+{
+"t": "Kami menyediakan susulan berterusan, bimbingan dan pembelajaran praktikal, sambil menggalakkan komunikasi terbuka antara pembantu dan majikan. Dengan berkongsi pengalaman dan menangani cabaran seawal mungkin, kami berhasrat untuk mengukuhkan pemahaman, meningkatkan pengetahuan penjagaan keluarga dan mengurangkan salah faham yang tidak perlu."
+}
+],
+[
+{
+"t": "Kami juga percaya bahawa "
+},
+{
+"t": "rehat dan kesejahteraan yang wajar adalah asas kepada penjagaan berkualiti yang mampan",
+"b": true
+},
+{
+"t": ". Di mana sesuai, "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " boleh membantu keluarga meneroka pengaturan sokongan rumah yang sesuai semasa tempoh rehat yang dipersetujui, tertakluk kepada ketersediaan dan keperluan yang berkenaan."
+}
+],
+[
+{
+"t": "Matlamat kami mudah: "
+},
+{
+"t": "pembantu yang lebih terbela, keluarga yang lebih terbela, dan penjagaan yang lebih baik.",
+"b": true
+}
+],
+[
+{
+"t": "Kerana "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " bukan sekadar menempatkan pembantu rumah."
+}
+]
+],
+"closing": [
+{
+"t": "Ia adalah tentang membawa penjagaan ke dalam rumah, mencipta peluang untuk keluarga lain, dan membina hubungan yang dapat mengubah kehidupan dengan positif di kedua-dua belah pihak.",
+"b": true
+}
+],
+"signoff": "Lahir dari Kasih. Dibina dengan Penjagaan.",
+"signoff_line": "Menyatukan keluarga. Memperkasakan wanita. Menjaga dengan tujuan.",
+"license_heading": "Pendaftaran & Perlesenan",
+"cta": "Hubungi kami",
+"license_view": "Lesen JTKSM kami",
+"license_alt": "Lesen agensi pekerjaan swasta JTKSM 1837 (Kategori B) yang dikeluarkan kepada Agensi Pekerjaan Veracare Sdn. Bhd.",
+"partners_heading": "Pihak yang Berkerjasama dengan Kami",
+"partners_sub": "Kami berkoordinasi dengan jabatan kerajaan dan kedutaan ini sepanjang setiap penempatan.",
+"partners": [
+{
+"name": "Jabatan Imigresen Malaysia"
+},
+{
+"name": "Jabatan Tenaga Kerja Semenanjung Malaysia"
+},
+{
+"name": "Kedutaan Besar Republik Filipina"
+},
+{
+"name": "Kementerian Sumber Manusia Malaysia"
+}
+]
+},
+"contact": {
+"heading": "Hubungi Kami",
+"sub": "Hubungi kami untuk permohonan baharu, pembaharuan, atau sebarang soalan mengenai pengambilan pembantu rumah.",
+"address_label": "Alamat",
+"phone_label": "Telefon / WhatsApp",
+"email_label": "E-mel",
+"hours_label": "Pertanyaan",
+"hours_value": "Hantar mesej kepada kami di WhatsApp bila-bila masa — kami akan balas secepat mungkin.",
+"map_heading": "Cari pejabat kami"
+},
+"enquiry": {
+"heading": "Hantar pertanyaan kepada kami",
+"sub": "Isikan borang ini dan ia akan membuka WhatsApp dengan mesej anda sedia untuk dihantar.",
+"name": "Nama anda",
+"name_ph": "cth. Tan Wei Ming",
+"topic": "Apa yang anda perlukan?",
+"topic_ph": "Pilih perkhidmatan",
+"message": "Beritahu kami dengan lebih lanjut",
+"message_ph": "cth. Keluarga empat orang di Pulau Tikus, mencari pembantu rumah menginap yang berpengalaman menjaga warga emas.",
+"send": "Buka dalam WhatsApp",
+"preview": "Pratonton mesej"
+},
+"footer": {
+"tagline": "Penempatan pembantu rumah berlesen, Georgetown, Pulau Pinang.",
+"rights": "Hak cipta terpelihara."
+},
+"whatsapp_message": "Hi, saya berminat dengan perkhidmatan pembantu rumah anda.",
+"ui": {
+"filter_services": "Tapis perkhidmatan",
+"search_faq": "Cari soalan",
+"no_results": "Tiada padanan. Cuba perkataan lain.",
+"showing": "Memaparkan {n} daripada {total}",
+"expand_all": "Buka semua",
+"collapse_all": "Tutup semua",
+"back_to_top": "Kembali ke atas",
+"clear": "Kosongkan"
+},
+"marquee": {
+"heading": "Kami berurusan dengan pihak berkuasa untuk anda",
+"sub": "Lesen, permit, pemeriksaan perubatan dan pembaharuan — dikoordinasikan secara langsung, anda tidak perlu berurusan dengan dokumen seorang diri."
+},
+"support": {
+"heading": "Keperihatinan di setiap langkah",
+"sub": "Dari temu duga pertama hingga pembaharuan permit, setiap keluarga dan setiap pembantu mendapat perhatian yang sama.",
+"items": [
+{
+"title": "Untuk majikan baharu",
+"desc": "Pengambilan pertama dijelaskan dengan jelas — profil calon, temu duga, permohonan dan kelulusan diuruskan sepenuhnya."
+},
+{
+"title": "Untuk majikan sedia ada",
+"desc": "Pembaharuan, pemindahan, kemasukan semula dan pemulangan diatur sebelum tarikh tamat, dengan peringatan daripada kami."
+},
+{
+"title": "Untuk pembantu",
+"desc": "Penempatan yang adil, kaunseling, urusan perubatan dan pasukan yang mudah dihubungi sepanjang kontrak."
+}
+]
+},
+"parallax": {
+"quote": "Pembantu yang baik menjadi sebahagian daripada keluarga. Mencari yang sesuai juga harus terasa sedekat itu.",
+"by": "Janji Veracare"
+},
+"testimonials": {
+"heading": "Budi bicara daripada keluarga",
+"sub": "Apa yang dikongsi keluarga di Pulau Pinang selepas penempatan selesai.",
+"items": [
+{
+"name": "Puan Lim",
+"role": "Pulau Tikus",
+"quote": "Semuanya diuruskan, dari permohonan hingga ke airport. Kami hanya menemu duga dan menyambutnya pulang."
+},
+{
+"name": "En. & Puan Tan",
+"role": "Georgetown",
+"quote": "Peringatan pembaharuan, tempahan FOMEMA, levy — semua selesai sebelum sempat kami tanya."
+},
+{
+"name": "Puan Nair",
+"role": "Tanjung Tokong",
+"quote": "Apabila pembantu kami menghadapi kesukaran pada bulan pertama, kaunselor mereka berbincang dengan kedua-dua pihak. Ianya sangat bermakna."
+},
+{
+"name": "En. Cheah",
+"role": "Bayan Lepas",
+"quote": "Yuran telus, garis masa realistik, tanpa kejutan. Tepat seperti yang diharapkan daripada sebuah agensi."
+}
+]
+}
+},
+"zh": {
+"meta": {
+"title": "Agensi Pekerjaan Veracare | 持牌女佣中介,槟城",
+"description": "位于槟城乔治市的持牌女佣中介公司。JTKSM 执照 1837(B类)。提供新申请、续签、转手续及全面移民支持服务。"
+},
+"nav": {
+"home": "首页",
+"services": "服务",
+"process": "服务流程",
+"faq": "常见问题",
+"about": "关于我们",
+"contact": "联系我们",
+"whatsapp": "WhatsApp咨询"
+},
+"hero": {
+"eyebrow": "持有 JTKSM 1837(B类)执照",
+"headline": "真诚关怀,用心服务",
+"sub": "我们协助槟城家庭寻找、聘请及管理女佣——从文件办理、面试到移民手续,全程为您处理。",
+"cta_primary": "WhatsApp咨询",
+"cta_secondary": "查看我们的服务"
+},
+"trust": {
+"heading": "可查证的注册中介公司",
+"jtksm_label": "执照",
+"jtksm_value": "JTKSM 1837 (Category B)",
+"ssm_label": "SSM 注册号",
+"ssm_value": "1651286-X",
+"address_label": "办公室地址"
+},
+"services_preview": {
+"heading": "我们提供的服务",
+"sub": "从家庭首次申请到女佣的续签或转手续,我们负责处理每一个步骤。",
+"cta": "查看全部服务"
+},
+"services": {
+"heading": "我们的服务",
+"sub": "为女佣安置及相关移民手续提供全面支持。",
+"items": [
+{
+"title": "新女佣申请",
+"desc": "全程办理首次申请,从人选配对到批准手续。"
+},
+{
+"title": "旧女佣重新入境申请",
+"desc": "为返回继续为您服务的女佣安排重新入境批准。"
+},
+{
+"title": "移民相关服务",
+"desc": "处理聘请女佣所涉及的移民文件与手续。"
+},
+{
+"title": "女佣面试",
+"desc": "协调并安排面试,让您聘请到适合您家庭的人选。"
+},
+{
+"title": "机场移民清关",
+"desc": "协助女佣抵达或离境时的机场移民清关手续。"
+},
+{
+"title": "Fomema体检安排",
+"desc": "安排法定的 Fomema 体检并跟进相关手续。"
+},
+{
+"title": "工作准证续签",
+"desc": "在到期前办理女佣工作准证的续签,确保合法雇用。"
+},
+{
+"title": "辅导服务",
+"desc": "在整个安置过程中为雇主与女佣提供指导与辅导。"
+},
+{
+"title": "机票购买与遣返安排",
+"desc": "在服务期满时协助订购机票并安排遣返。"
+},
+{
+"title": "女佣转移申请",
+"desc": "办理女佣从原雇主转至新雇主的转移手续。"
+},
+{
+"title": "临时本地清洁工人",
+"desc": "按您家庭需要安排的临时清洁服务,由可信赖的第三方公司提供。"
+},
+{
+"title": "兼职定时清洁",
+"desc": "定期上门清洁服务,由可信赖的第三方公司提供。"
+}
+]
+},
+"process_preview": {
+"heading": "办理流程",
+"sub": "从您的第一通咨询到女佣安顿入住,共四个阶段。",
+"cta": "查看完整流程",
+"steps": [
+{
+"title": "咨询了解",
+"desc": "我们了解您的家庭需求,确定合适的人选条件。"
+},
+{
+"title": "甄选与批准",
+"desc": "您面试入围人选,我们提交并跟进您的申请。"
+},
+{
+"title": "办理与抵达",
+"desc": "完成证件、体检与签证手续,随后我们到机场接机。"
+},
+{
+"title": "安置与支持",
+"desc": "她正式加入您的家庭,后续辅导与续签由我们负责。"
+}
+]
+},
+"process": {
+"heading": "服务流程",
+"sub": "我们的标准操作流程——从首次咨询到案件结案,每个环节都有跟踪记录,绝不疏漏。",
+"steps": [
+{
+"title": "客户咨询",
+"desc": "每项服务都始于结构化咨询,并录入CRM系统。",
+"points": [
+"咨询话术",
+"客户咨询表格",
+"CRM:新建咨询"
+]
+},
+{
+"title": "需求评估",
+"desc": "报价前,我们先评估您家庭的实际需求。",
+"points": [
+"雇主需求评估表",
+"无评估,不出报价"
+]
+},
+{
+"title": "报价",
+"desc": "正式报价单列明费用明细、有效期与除外条款。",
+"points": [
+"正式报价单",
+"费用明细",
+"有效期与除外条款"
+]
+},
+{
+"title": "服务说明",
+"desc": "我们向您说明办理时限、退款与更换条款。",
+"points": [
+"确认知悉",
+"时限、退款与更换条款"
+]
+},
+{
+"title": "签约与付款",
+"desc": "签署协议、开具收据,并为您建立客户档案。",
+"points": [
+"客户协议",
+"收据 / 付款",
+"建立客户档案"
+]
+},
+{
+"title": "女佣资格审核",
+"desc": "逐一核实每位候选人的注册、证件、技能与背景。",
+"points": [
+"注册与证件",
+"面试与技能",
+"人选背景核实"
+]
+},
+{
+"title": "匹配与选择",
+"desc": "我们按您的需求匹配合适人选,并与您确认聘用。",
+"points": [
+"匹配清单",
+"候选人资料",
+"确认聘用"
+]
+},
+{
+"title": "提交准备",
+"desc": "提交前以最终清单确保文件齐全。",
+"points": [
+"最终核对清单",
+"文件齐全",
+"进度表更新"
+]
+},
+{
+"title": "进度跟踪",
+"desc": "我们跟踪准证、签证、体检与保险进度,每周更新。",
+"points": [
+"准证 / 签证",
+"体检 / 保险",
+"每周更新"
+]
+},
+{
+"title": "交接 / 入职",
+"desc": "女佣行前说明、签署交接表格,随即正式入职。",
+"points": [
+"女佣行前说明",
+"交接表格",
+"入职日期"
+]
+},
+{
+"title": "跟进回访",
+"desc": "第3、7、14天及第1至3个月的结构化回访。",
+"points": [
+"第3 / 7 / 14天",
+"第1 / 2 / 3个月",
+"问题监测"
+]
+},
+{
+"title": "问题处理",
+"desc": "投诉与突发情况按明确机制上报总监处理。",
+"points": [
+"投诉 / 突发情况",
+"更换 / 退款",
+"上报总监"
+]
+},
+{
+"title": "案件结案",
+"desc": "以结案核对清单完成结案,随后归档存档。",
+"points": [
+"结案核对清单",
+"CRM关闭",
+"归档存档"
+]
+}
+],
+"note": "所需时间因来源国及当前移民审批进度而异。我们会在咨询阶段为您提供实际的时间估算。",
+"cta": "从咨询开始"
+},
+"faq": {
+"heading": "常见问题",
+"sub": "雇主在马来西亚聘请女佣时最常提出的问题。",
+"items": [
+{
+"q": "整个流程需要多长时间?",
+"a": "这取决于来源国、人选的准备情况以及当前的移民审批进度。在确定招聘来源国并审核您的申请后,我们会给您一个实际的时间估算。"
+},
+{
+"q": "你们从哪些国家招聘女佣?",
+"a": "我们与多个获准向马来西亚输送女佣的来源国合作伙伴保持合作。可招聘的国家会随政府政策变动,请联系我们了解目前可安排的国家。"
+},
+{
+"q": "涉及哪些费用?",
+"a": "费用通常包括中介服务费、政府人头税与手续费、体检、保险、机票及签证费用。我们会在您确认之前提供书面费用明细,让您清楚每一项支出。"
+},
+{
+"q": "作为雇主,我有哪些责任?",
+"a": "您需负责女佣的薪资、住宿、伙食,以及与其雇用相关的人头税和准证费用,并依照马来西亚劳工规定合理对待她。我们会在咨询时逐项清楚说明。"
+},
+{
+"q": "什么是 Fomema?由谁安排?",
+"a": "Fomema 是马来西亚外籍劳工必须通过的法定体检。我们会为您预约并协助办理整个流程;体检结果将决定工作准证能否获得背书。"
+},
+{
+"q": "如果女佣不合适怎么办?",
+"a": "请尽早与我们沟通,不要拖延。我们会先为双方提供辅导,因为许多问题是可以化解的。若确实需要更换,我们会说明您的选择以及各自涉及的程序。"
+},
+{
+"q": "我可以接手已在马来西亚的女佣吗?",
+"a": "可以,在许多情况下从其他雇主转移是可行的,但需视批准情况及该女佣的准证状态而定。我们会代您办理转移申请。"
+},
+{
+"q": "我需要提供独立的住宿吗?",
+"a": "您须提供合适的居住安排,包括妥善的睡眠空间、足够的休息时间以及饮食供应。我们会根据您的居家情况说明具体要求。"
+},
+{
+"q": "工作准证如何续签?",
+"a": "女佣的工作准证必须在到期前续签,过程包括再次体检及提交续签申请。我们会记录到期日并提前联系您,确保不会逾期。"
+},
+{
+"q": "合约期满后会如何?",
+"a": "视双方意愿,我们可安排续约、回乡休假后重新入境,或办理遣返(包含机票与离境手续)。在合约接近期满时,我们会引导您做出选择。"
+}
+],
+"cta_text": "还有其他疑问?",
+"cta": "WhatsApp 询问我们"
+},
+"about": {
+"heading": "关于 Veracare",
+"tagline": "因爱而生,用心构建。",
+"story": [
+[
+{
+"t": "Agensi Pekerjaan Veracare 是一家位于橿城佐治市浮罗池滑的持牌女仆中介公司。我们帮助家庭更有信心、更清晰、更安心地完成聘请女仆的整个流程。"
+}
+],
+[
+{
+"t": "但 "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " 的创立,志不止于一家职业中介。"
+}
+],
+[
+{
+"t": "我们的故事始于一个信念:"
+},
+{
+"t": "一个对的人走进一个家庭,就能给整个家庭带来深远的改变",
+"b": true
+},
+{
+"t": "。"
+}
+],
+[
+{
+"t": "在亲身感受到一位充满爱心、值得信赖的女仆能带来怎样的改变之后,我们的总监深受启发创立了 "
+},
+{
+"t": "Veracare"
+},
+{
+"t": "——希望帮助更多家庭在家中找到同样的"
+},
+{
+"t": "信任、支持与真诚关怀",
+"b": true
+},
+{
+"t": ",同时也为女性创造有意义的机会,让她们为自己和家人开创更美好的未来。"
+}
+],
+[
+{
+"t": "Veracare"
+},
+{
+"t": " 也延续着家族世代相传的信念:"
+},
+{
+"t": "当我们成长时,也应为他人创造共同成长的机会。",
+"b": true
+}
+],
+[
+{
+"t": "我们相信,通过妥善的甄选、准备、指导与机会,就能真正赋能女性——帮助她们掌握有价值的技能,有尊严地支撑家庭,并成为所服务家庭中值得信赖的一员。"
+}
+]
+],
+"mid_heading": "关怀家庭,成就女仆。",
+"body": [
+[
+{
+"t": "对家庭而言,我们的目标是"
+},
+{
+"t": "把对的人带进对的家",
+"b": true
+},
+{
+"t": "——以关怀、专业与责任进行甄选与支持。"
+}
+],
+[
+{
+"t": "Veracare"
+},
+{
+"t": " 全程协助雇佣流程:从首次申请与人选匹配,到文件办理、体检安排、移民局手续与入职安置,以及续约、转让等后续事务。我们的团队负责协调各项手续,让家庭无需独自面对一切。"
+}
+],
+[
+{
+"t": "对女仆而言,"
+},
+{
+"t": "我们的责任并不止于入职安置",
+"b": true
+},
+{
+"t": "。"
+}
+],
+[
+{
+"t": "我们提供持续的跟进、指导与实务学习,并鼓励女仆与雇主之间保持坦诚沟通。通过分享经验、及早处理问题,我们希望增进彼此理解、提升家庭照护知识,减少不必要的误会。"
+}
+],
+[
+{
+"t": "我们也相信,"
+},
+{
+"t": "适当的休息与身心健康是持续提供优质照护的基础",
+"b": true
+},
+{
+"t": "。在合适的情况下,"
+},
+{
+"t": "Veracare"
+},
+{
+"t": " 可协助家庭在约定的休息期内探讨合适的家务支援安排,具体视供应情况及相关规定而定。"
+}
+],
+[
+{
+"t": "我们的目标很简单:"
+},
+{
+"t": "女仆获得更妥善的支持,家庭获得更妥善的支持,照护也更加美好。",
+"b": true
+}
+],
+[
+{
+"t": "因为 "
+},
+{
+"t": "Veracare"
+},
+{
+"t": " 所做的,仅仅不是安置一名女仆。"
+}
+]
+],
+"closing": [
+{
+"t": "更是把关怀带入家庭,为另一个家庭创造机会,并建立能够积极改变双方生活的关系。",
+"b": true
+}
+],
+"signoff": "因爱而生,用心构建。",
+"signoff_line": "连结家庭,赋能女性,用心关怀。",
+"license_heading": "注册与执照信息",
+"cta": "联系我们",
+"license_view": "我们的 JTKSM 执照",
+"license_alt": "颁发予 Agensi Pekerjaan Veracare Sdn. Bhd. 的 JTKSM 1837(B 类)私立职业中介执照。",
+"partners_heading": "合作机构",
+"partners_sub": "每一次女佣安置,我们都与以下政府部门及大使馆保持协调。",
+"partners": [
+{
+"name": "马来西亚移民局"
+},
+{
+"name": "马来西亚半岛劳工局"
+},
+{
+"name": "菲律宾共和国大使馆"
+},
+{
+"name": "马来西亚人力资源部"
+}
+]
+},
+"contact": {
+"heading": "联系我们",
+"sub": "如需办理新申请、续签,或有任何关于聘请女佣的问题,欢迎联系我们。",
+"address_label": "地址",
+"phone_label": "电话 / WhatsApp",
+"email_label": "电邮",
+"hours_label": "咨询时间",
+"hours_value": "欢迎随时通过 WhatsApp 留言,我们会尽快回复。",
+"map_heading": "办公室位置"
+},
+"enquiry": {
+"heading": "向我们发送咨询",
+"sub": "填写以下内容,即可打开 WhatsApp 并自动带上您的信息。",
+"name": "您的姓名",
+"name_ph": "例如:陈伟明",
+"topic": "您需要哪方面的协助?",
+"topic_ph": "请选择服务",
+"message": "请多告诉我们一些",
+"message_ph": "例如:浮罗池滑四口之家,希望聘请有长者照护经验的住家女佣。",
+"send": "在 WhatsApp 中打开",
+"preview": "信息预览"
+},
+"footer": {
+"tagline": "持牌女佣安置服务,槟城乔治市。",
+"rights": "版权所有。"
+},
+"whatsapp_message": "您好,我对贵公司的女佣服务感兴趣。",
+"ui": {
+"filter_services": "筛选服务",
+"search_faq": "搜索问题",
+"no_results": "没有找到相关内容,请换个关键词。",
+"showing": "显示 {n} / {total}",
+"expand_all": "展开全部",
+"collapse_all": "收起全部",
+"back_to_top": "返回顶部",
+"clear": "清除"
+},
+"marquee": {
+"heading": "我们代您与有关部门接洽",
+"sub": "执照、准证、体检与更新——全程直接协调,您无需独自面对繁琐文件。"
+},
+"support": {
+"heading": "每一步都有关怀",
+"sub": "从首次面试到准证更新,每个家庭、每位帮佣都获得同样的用心对待。",
+"items": [
+{
+"title": "首次聘请的家庭",
+"desc": "清楚讲解首次聘请流程——候选人资料、面试、申请与批准,全程妥善处理。"
+},
+{
+"title": "已有帮佣的雇主",
+"desc": "更新、转让、重新入境与遣返安排都在到期前完成,我们还会主动提醒。"
+},
+{
+"title": "帮佣本身",
+"desc": "公平的安置、辅导、体检安排,以及合约期内随时可联系的支持团队。"
+}
+]
+},
+"parallax": {
+"quote": "一位好帮佣会成为家庭的一份子。找到对的人,也应当同样贴心。",
+"by": "Veracare 的承诺"
+},
+"testimonials": {
+"heading": "雇主的心声",
+"sub": "安置完成后,槟城家庭对我们的评价。",
+"items": [
+{
+"name": "林女士",
+"role": "浮罗池滑",
+"quote": "从申请到机场接机,他们一手包办。我们只需面试,然后迎接她回家。"
+},
+{
+"name": "陈先生与陈太太",
+"role": "乔治市",
+"quote": "更新提醒、FOMEMA 预约、人头税——我们还没想到,他们早已办妥。"
+},
+{
+"name": "奈尔女士",
+"role": "丹绒道光",
+"quote": "帮佣第一个月不适应时,他们的辅导员与双方坐下来沟通,扭转了整个局面。"
+},
+{
+"name": "谢先生",
+"role": "峇六拜",
+"quote": "收费透明、时间预估实际、毫无隐藏费用。这正是我们对中介的期望。"
+}
+]
+}
+}
+}

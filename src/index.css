@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 5.9% 10%;
+    --radius: 0.625rem;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* VeraCare brand palette (from original site) */
+    --ink: #072b34;
+    --deep-teal: #01677b;
+    --teal: #0b8a87;
+    --cyan: #5ed5db;
+    --blue: #2a6fc2;
+    --deep-blue: #14529f;
+    --paper: #f6faf9;
+    --paper-dim: #eef5f4;
+    --gold: #b9963f;
+    --gold-light: #e4cd8f;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background-color: var(--paper-dim);
+    color: var(--ink);
+  }
+
+  ::selection {
+    background: rgba(94, 213, 219, 0.45);
+    color: var(--ink);
+  }
+}
+
+@layer utilities {
+  .font-serif-display {
+    font-family: "Lora", Georgia, "Times New Roman", serif;
+  }
+  .text-ink { color: var(--ink); }
+  .text-deep-teal { color: var(--deep-teal); }
+  .text-teal { color: var(--teal); }
+  .text-cyan-brand { color: var(--cyan); }
+  .text-deep-blue { color: var(--deep-blue); }
+  .text-gold-brand { color: var(--gold); }
+  .text-gold-light { color: var(--gold-light); }
+  .bg-ink { background-color: var(--ink); }
+  .bg-deep-teal { background-color: var(--deep-teal); }
+  .bg-teal-brand { background-color: var(--teal); }
+  .bg-cyan-brand { background-color: var(--cyan); }
+  .bg-paper { background-color: var(--paper); }
+  .bg-paper-dim { background-color: var(--paper-dim); }
+  .bg-gold-brand { background-color: var(--gold); }
+  .border-brand { border-color: rgba(1, 103, 123, 0.12); }
+}
+
+/* ---------- marquee (partners) ---------- */
+@keyframes marquee-x {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.animate-marquee {
+  animation: marquee-x 32s linear infinite;
+}
+.marquee-mask {
+  mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
+}
+
+/* ---------- hero network ---------- */
+@keyframes dash-flow {
+  to { stroke-dashoffset: -48; }
+}
+.net-line {
+  stroke-dasharray: 6 6;
+  animation: dash-flow 3.2s linear infinite;
+}
+@keyframes pulse-soft {
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.08); }
+}
+.net-glow {
+  animation: pulse-soft 3.4s ease-in-out infinite;
+}
+
+/* ---------- misc ---------- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .animate-marquee, .net-line, .net-glow { animation: none !important; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: var(--paper-dim); }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--deep-teal), var(--teal));
+  border-radius: 999px;
+  border: 2px solid var(--paper-dim);
+}
