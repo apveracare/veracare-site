@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { ShieldCheck, Building2, X } from 'lucide-react';
 import { useLocale } from '../context/LocaleContext';
 import SectionShell from '../components/SectionShell';
-import { BlurWords, Eyebrow, FadeUp } from '../components/Reveal';
+import { FadeUp } from '../components/Reveal';
 import type { RichSegment } from '../lib/site';
 import careOffice from '../assets/care-office.jpg';
 import careStreet from '../assets/care-street.jpg';
@@ -34,22 +34,10 @@ export default function AboutSection() {
   return (
     <SectionShell id="about">
       <div className="px-6 py-16 sm:px-12 sm:py-20">
-        {/* header — centered like every other section */}
-        <div className="mx-auto max-w-3xl text-center">
-          <div className="flex justify-center">
-            <Eyebrow>{d.nav.about}</Eyebrow>
-          </div>
-          <BlurWords
-            text={d.about.heading}
-            className="font-serif-display mt-4 text-[32px] leading-tight font-semibold text-[var(--ink)] sm:text-[42px]"
-          />
-          <FadeUp delay={0.15}>
-            <p className="font-serif-display mt-3 text-[20px] font-medium text-[var(--gold)] italic sm:text-[23px]">
-              {d.about.tagline}
-            </p>
-          </FadeUp>
-          <FadeUp delay={0.25}>
-            <Rich segs={intro} className={`mt-8 text-left ${P}`} />
+        {/* intro — the tagline already appears in the page banner */}
+        <div className="mx-auto max-w-3xl">
+          <FadeUp>
+            <Rich segs={intro} className={`text-left ${P}`} />
           </FadeUp>
         </div>
 

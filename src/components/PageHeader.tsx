@@ -12,7 +12,7 @@ export default function PageHeader({
   sub,
 }: {
   eyebrow: string;
-  title: string;
+  title?: string;
   sub: string;
 }) {
   return (
@@ -26,13 +26,21 @@ export default function PageHeader({
         <div className="flex justify-center">
           <Eyebrow light>{eyebrow}</Eyebrow>
         </div>
-        <BlurWords
-          as="h1"
-          text={title}
-          className="font-serif-display mt-5 text-[32px] leading-tight font-semibold text-white sm:text-[46px]"
-        />
+        {title && (
+          <BlurWords
+            as="h1"
+            text={title}
+            className="font-serif-display mt-5 text-[32px] leading-tight font-semibold text-white sm:text-[46px]"
+          />
+        )}
         <FadeUp delay={0.2}>
-          <p className="mx-auto mt-5 max-w-2xl text-[15px] leading-relaxed text-white/70 sm:text-[16px]">{sub}</p>
+          {title ? (
+            <p className="mx-auto mt-5 max-w-2xl text-[15px] leading-relaxed text-white/70 sm:text-[16px]">{sub}</p>
+          ) : (
+            <h1 className="font-serif-display mx-auto mt-4 max-w-2xl text-[26px] leading-snug font-semibold text-white italic sm:text-[32px]">
+              {sub}
+            </h1>
+          )}
         </FadeUp>
         {/* decorative sparkles */}
         {[...Array(5)].map((_, i) => (
