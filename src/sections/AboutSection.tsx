@@ -34,16 +34,10 @@ export default function AboutSection() {
   return (
     <SectionShell id="about">
       <div className="px-6 py-16 sm:px-12 sm:py-20">
-        {/* intro — the tagline already appears in the page banner */}
+        {/* intro — "Our Story" heading and tagline appear in the page banner */}
         <div className="mx-auto max-w-3xl">
           <FadeUp>
-            <h2 className="font-serif-display text-[26px] leading-snug font-semibold text-[var(--deep-teal)] sm:text-[30px]">
-              {d.about.story_heading}
-            </h2>
-            <span className="mt-4 block h-px w-16 bg-[var(--gold)]" />
-          </FadeUp>
-          <FadeUp delay={0.06}>
-            <Rich segs={intro} className={`mt-8 text-left ${P}`} />
+            <Rich segs={intro} className="text-left" />
           </FadeUp>
         </div>
 
@@ -110,7 +104,7 @@ export default function AboutSection() {
             <h3 className="font-serif-display text-[20px] font-semibold text-[var(--deep-teal)]">
               {d.about.license_heading}
             </h3>
-            <div className="mt-4 grid max-w-md grid-cols-1 gap-3 sm:grid-cols-2">
+            <div className="mt-4 grid max-w-2xl grid-cols-1 gap-3 sm:grid-cols-2">
               <div className="flex items-center gap-3 rounded-2xl border border-[rgba(1,103,123,0.1)] bg-[var(--paper)] px-5 py-4">
                 <ShieldCheck className="h-6 w-6 flex-shrink-0 text-[var(--teal)]" strokeWidth={1.6} />
                 <div>

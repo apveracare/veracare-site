@@ -106,7 +106,9 @@ export default function SiteFooter() {
       </motion.div>
 
       <div className="border-t border-white/10 px-6 py-5 text-center">
-        <p className="text-[12px] text-white/45">© 2026 Agensi Pekerjaan Veracare. {d.footer.rights}</p>
+        <p className="text-[12px] text-white/45">
+          © 2026 Agensi Pekerjaan Veracare Sdn. Bhd. 202501049878 (1651286-X). {d.footer.rights}
+        </p>
         <p className="mt-1 text-[12px] text-white/45">
           Website Designed by{' '}
           <a href="https://www.wdigital.au" target="_blank" rel="noopener noreferrer" className="text-[var(--cyan)] hover:underline">

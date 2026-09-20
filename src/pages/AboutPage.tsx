@@ -12,7 +12,7 @@ export default function AboutPage() {
     <div className="min-h-screen">
       <Navbar />
       <main>
-        <PageHeader eyebrow={d.nav.about} sub={d.about.tagline} />
+        <PageHeader eyebrow={d.nav.about} title={d.about.story_heading} sub={d.about.tagline} />
         <div className="pt-6">
           <AboutSection />
         </div>
